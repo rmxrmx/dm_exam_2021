@@ -1,0 +1,24 @@
+
+    Remember to focus on a research question - something you want to address with your study, be it a problem or a question, but something you want to investigate with your study and try to answer or solve. This will guide your writing and literature search tremendously. 
+    This is the most important aspect of writing this abstract and getting started on your exam paper, so give it some good thinking (and maybe even a few tries).
+	
+    Try (hard) to motivate your study independently of the "original" study (if there is such a one) - think of Josh' inequality-paper as a good example: so don't say "this study did this and this, now I'll tweak it a bit in order to test this and that"; instead say something along the lines of e.g. "more inequality leads to less money on social welfare; lab research suggests that simulated inequality affects cooperative decision making; can we link lab behavior to real-world inequality? This study addresses this question by ..." (paraphrasing Josh here)
+	
+    Remember to think about integrating some sort of (formal) model of decision making into your analysis.
+
+
+
+avg_time_per_round = avg time all the participants (60) took to make a decision over 40 rounds. Both configurations combined (they didn't have much differences, between them), so avg(120) x 40 data points.
+
+avg_time_per_subject = 
+participant #54 takes an avg of 44 secs to make a decision
+participant #27 takes an avg of 13 secs to make a decision
+
+
+if i want to see the profit in the plot, need to normalize to 0- (doesnt work)
+
+
+time taken correlates negatively with profit -> more confident people know the game better (know what to do), get more profit
+
+
+!!! NEED TO THINK ABOUT PART 3 -> INTEGRATING SOME SORT OF FORMAL MODEL OF DECISION MAKING INTO ANALYSIS
